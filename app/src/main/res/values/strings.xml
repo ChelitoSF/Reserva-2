@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reserva_DanielOR</string>
+    <string name="Biblioteca">Bienvenido a Biblioteca</string>
+    <string name="Rent">Rentar Libro</string>
+    <string name="Info">Info de la App</string>
+    <string name="Titu">Titulo</string>
+    <string name="Aut">Autor</string>
+    <string name="Edi">Editorial</string>
+    <string name="Per">Persona a Rentar</string>
+    <string name="Edic">Edicion</string>
+    <string name="Men">Menu</string>
+    <string name="Ses">Cerrar Sesion</string>
+    <string name="Creditos">Creditos</string>
+    <string name="Hech">Hecha por: Daniel Ochoa Rivera</string>
+    <string name="Gru">Grupo: 6IM7</string>
+
+
+</resources>
